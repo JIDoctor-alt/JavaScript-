@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="GB2312"> 
+<title>菜鸟教程(runoob.com)</title> 
+</head>
+<body>
+	
+<h1>我的第一个JavaScript</h1>
+<p>
+JavaScript能够对时间作出反应。比如对按钮的点击：
+</p>
+<button type="button" onclick="alert('欢迎！')">点我！</button>
+</body>
+</html>
